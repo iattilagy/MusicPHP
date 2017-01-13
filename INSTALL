@@ -1,0 +1,5 @@
+1. Install LAMP server
+2. Copy files to /srv/www/htdocs except rebuilddb.py
+3. Copy rebuilddb.py to your music dir
+4. Run it
+5. Set musicdir in music.php

@@ -1,0 +1,84 @@
+html {
+    background-color:#212729;
+    color:#dddddd;
+}
+main {
+    text-align:center;
+    padding:5px;
+    width:450px;
+    float:left;
+}
+lyrics{
+    text-align:center;
+    padding:5px;
+    width:450px;
+    float:left;
+    overflow-y: scroll;
+    height:96%
+}
+albumradio{
+    width:350px;
+    float:left;
+    height: 150px;
+    line-height: 150px;
+}
+trackradio{
+    width:200px;
+    float:left;
+}
+playlistradio{
+    width:200px;
+    float:left;
+}
+#albumsmall{
+    width:128px;
+    height:128px;
+    padding:15px;
+    float:right;
+}
+a {
+    color: lightblue;
+}
+playlist{
+    padding:10px;
+    float:left;
+    width:300px;
+    overflow-y: scroll;
+    height:96%
+}
+buttons{
+    display:block;
+    padding-right:1cm;
+    padding-left:1cm;
+    padding-top:1cm;
+}
+
+.submit{
+    margin:15px;
+}
+h1,h2, h3, h4, h5, h6{
+  line-height: 10px; 
+}
+
+h3{
+    padding:10px;
+}
+#albumimg{
+    width:400px;
+    height:400px;
+}
+progress{
+    width:90%;
+    height:5px; 
+    padding: 15px,5px,15px;
+    -webkit-appearance: none;
+	border: none;
+}
+progress::-webkit-progress-bar {
+   background: #212729;
+}
+progress::-webkit-progress-value {
+   background:#eeeeee;
+}
+
+
